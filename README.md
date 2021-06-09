@@ -1,5 +1,5 @@
 
-一款极简设计的双轴摄影滑轨，采用3D打印技术和模块化设计，软硬件都可以获得持续升级，对货币友好。详情参考[用户手册](https://github.com/oocat/dapeng_slider_documents/tree/master)
+一款极简设计的双轴摄影滑轨，采用3D打印技术和模块化设计，软硬件都可以获得持续升级，对货币友好。详情参考[用户手册](https://github.com/oocat/dapeng_slider_documents/raw/master/%E5%A4%A7%E9%B9%8F%E6%BB%91%E8%BD%A8%20%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97.docx)或关于大鹏滑轨的[所有文档](https://github.com/oocat/dapeng_slider_documents/tree/master)
 # 大鹏滑轨固件升级工具
 # 升级步骤
 ## Windows
